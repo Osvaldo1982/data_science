@@ -12,6 +12,7 @@
 * https://zerowithdot.com/about/
 * https://github.com/python-engineer/MLfromscratch
 * https://github.com/OlegZero13/MLfromscratch/tree/master/mlfromscratch
+* https://github.com/OlegZero13/Data-Science-Algorithm-Gallery
 
 ## ML Models
 * https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
