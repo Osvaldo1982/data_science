@@ -1,17 +1,18 @@
 # Machine Learning Models Basics
 
+
+* AdaBoost
+* Decision Tree
+* K-Means
 * KNN
+* Linear Discriminant Analysis (LDA)
 * Linear Regression
 * Logistic Regression
 * Naive Bayes
 * Perceptron
-* SVM
-* Decision Tree
-* Random Forest
 * Principal Component Analysis (PCA)
-* K-Means
-* AdaBoost
-* Linear Discriminant Analysis (LDA)
+* Random Forest
+* SVM
 
 # References
 
